@@ -9,7 +9,7 @@ Los datasets /datasets/plans.csv, /datasets/users_latam.csv, /datasets/usage.csv
 ▶ Cómo abrir el cuaderno en github
 Haz clic en el siguiente botón:
 
-(https://github.com/Adrianadiaz9810/telecom-analysis)
+https://github.com/Adrianadiaz9810/telecom-analysis/blob/main/sprint7-final-project.ipynb
 
 📘 Cómo reproducir el análisis
 Clona o descarga este repositorio.
